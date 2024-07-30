@@ -6,7 +6,9 @@
 <p align="left"> <a href="https://twitter.com/singh_loke27692" target="blank"><img src="https://img.shields.io/twitter/follow/singh_loke27692?logo=twitter&style=for-the-badge" alt="singh_loke27692" /></a> </p>
 
 - 🔭 I’m currently working on [Btech_Notes(rtu)](https://github.com/Lokeshsingh78/btech_notes_rtu.git)
-- 🚀 My Live Portfolio: [Lokesh's Portfolio](https://lokeshsingh78.github.io/Lokesh_portfolio/).
+- 🚀 My Live Portfolio: [Lokesh's Portfolio](https://lokeshsingh78.github.io/Lokesh_portfolio/) For an optimal viewing experience, please open on a laptop or desktop computer.
+
+
 - 🌱 I’m currently learning **Advanced React and AI development**
 
 - 💬 Ask me about **Web Development, Android App Development, and Animation with Blender **
