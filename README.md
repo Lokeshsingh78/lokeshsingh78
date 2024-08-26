@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on [Btech_Notes(rtu)](https://github.com/Lokeshsingh78/btech_notes_rtu.git)
 - 🚀 My Live Portfolio: [Lokesh's Portfolio](https://lokeshsingh78.github.io/Lokesh_portfolio/) For an optimal viewing experience, please open on a laptop or desktop computer.
 
-
+ 
 - 🌱 I’m currently learning **Advanced React and AI development** 
 
 - 💬 Ask me about **Web Development, Android App Development, and Animation with Blender **
