@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lokesh Singh Tanwar</h1>
 <h3 align="center">A passionate Developer from India</h3>
-  
+   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokeshsingh78" alt="lokeshsingh78" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@Not_LokeshSingh" target="blank"><img src="https://img.shields.io/twitter/follow/Lokesh singh?logo=twitter&style=for-the-badge" alt="singh_loke27692" /></a> </p>
