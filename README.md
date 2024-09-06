@@ -10,7 +10,7 @@
 
   
 - 🌱 I’m currently learning **Advanced React and AI development** 
-
+ 
 - 💬 Ask me about **Web Development, Android App Development, and Animation with Blender **
 
 - 📫 How to reach me **Lokeshsinghtanwar78@gmail.com**
