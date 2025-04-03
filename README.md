@@ -6,9 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/not_lokeshsingh" target="blank"><img src="https://img.shields.io/twitter/follow/not_lokeshsingh?logo=twitter&style=for-the-badge" alt="not_lokeshsingh" /></a> </p>
 
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
+
 
 - 🔭 I’m currently working on [NationNavigator](https://github.com/Lokeshsingh78/NationNavigator)
 
