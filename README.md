@@ -1,54 +1,313 @@
-<h1 align="center">Hi 👋, I'm Lokesh Singh Tanwar</h1>
-<h3 align="center">A passionate Developer from India</h3>
+<div align="center">
 
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> LOKESH SINGH TANWAR
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokeshsingh78" alt="lokeshsingh78" /></a> </p>
+```ascii
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   ██████╗ ███████╗██╗   ██╗███████╗██╗      ██████╗ ██████╗ ███████╗██████╗ ║
+║   ██╔══██╗██╔════╝██║   ██║██╔════╝██║     ██╔═══██╗██╔══██╗██╔════╝██╔══██╗║
+║   ██║  ██║█████╗  ██║   ██║█████╗  ██║     ██║   ██║██████╔╝█████╗  ██████╔╝║
+║   ██║  ██║██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║     ██║   ██║██╔═══╝ ██╔══╝  ██╔══██╗║
+║   ██████╔╝███████╗ ╚████╔╝ ███████╗███████╗╚██████╔╝██║     ███████╗██║  ██║║
+║   ╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
-<p align="left"> <a href="https://twitter.com/not_lokeshsingh" target="blank"><img src="https://img.shields.io/twitter/follow/not_lokeshsingh?logo=twitter&style=for-the-badge" alt="not_lokeshsingh" /></a> </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=700&lines=Transforming+Ideas+Into+Digital+Reality;Building+Next-Gen+Web+Experiences;Creating+the+Future%2C+One+Line+at+a+Time" alt="Typing SVG" />
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-- 🔭 I’m currently working on [Coder's Blog](https://github.com/Lokeshsingh78/coders-blog)
-
-- 🌱 I’m currently learning **MERN Stack**
-
-- 👨‍💻 My Portfolio: [Lokesh Singh Tanwar](https://lokeshsingh78.github.io/Lokesh_portfolio/)
-
-- 📝 I regularly write articles on [Dev.to](https://dev.to/lokesh_singh)
-
-- 💬 Ask me about **Web Development, Android App Development**
-
-- 📫 How to reach me **Lokeshsinghtanwar78@gmail.com**
-
-- ⚡ Fun fact **I enjoy creating animations with Blender!**
-
-
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/lokesh_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lokesh_singh" height="30" width="40" /></a>
-<a href="https://x.com/Not_LokeshSingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Not_LokeshSingh" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/lokesh-singh-tanwar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokesh-singh-tanwar" height="30" width="40" /></a>
-<a href="https://instagram.com/_lokesh___3983" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_lokesh___3983" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/lokeshsinghtanwar78/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lokeshsinghtanwar78" height="30" width="40" /></a>
+<a href="https://twitter.com/not_lokeshsingh" target="blank"><img src="https://img.shields.io/twitter/follow/not_lokeshsingh?logo=twitter&style=for-the-badge" alt="not_lokeshsingh" /></a>
 </p>
 
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 👨‍💻 About Me
 
-## Most Used Languages :
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lokeshsingh78&layout=compact&theme=tokyonight)
+- 🔭 I'm currently working on [Coder's Blog](https://github.com/Lokeshsingh78/coders-blog)
+- 🌱 I'm currently learning **MERN Stack**
+- 👨‍💻 My Portfolio: [Lokesh Singh Tanwar](https://lokeshsingh78.github.io/Lokesh_portfolio/)
+- 📝 I regularly write articles on [Dev.to](https://dev.to/lokesh_singh)
+- 💬 Ask me about **Web Development, Android App Development**
+- 📫 How to reach me **Lokeshsinghtanwar78@gmail.com**
+- ⚡ Fun fact **I enjoy creating animations with Blender!**
 
-## Current Streak :
-![GitHub Streak](https://streak-stats.demolab.com/?user=Lokeshsingh78&theme=tokyonight)
+>
 
-## Productivity Stats :
- ![Lokeshsingh78's Productivity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lokeshsingh78&theme=tokyonight)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 📈 GitHub Stats :
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lokeshsingh78&show_icons=true&theme=tokyonight)
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> TECHNOLOGY STACK
+
+<div align="center">
+
+### 『 Frontend Universe 』
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+<br>TypeScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<br>HTML5
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+<br>CSS3
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+<br>Tailwind
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+<br>Bootstrap
+</td>
+</tr>
+</table>
+
+### 『 Backend Infrastructure 』
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br>Node.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+<br>Express
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br>MongoDB
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br>MySQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
+<br>PostgreSQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+<br>Redis
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+<br>Firebase
+</td>
+</tr>
+</table>
+
+### 『 Mobile & Native 』
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" />
+<br>Android
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
+<br>Kotlin
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+<br>Java
+</td>
+</tr>
+</table>
+
+### 『 DevOps & Tools 』
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+<br>GitHub
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+<br>AWS
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+<br>Postman
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br>VS Code
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=blender" width="48" height="48" alt="Blender" />
+<br>Blender
+</td>
+</tr>
+</table>
+
+</div>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshsingh78&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshsingh78" /> </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> GITHUB PERFORMANCE METRICS
+
+<div align="center">
+
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Lokeshsingh78&show_icons=true&count_private=true&hide_border=true&title_color=00F7F7&icon_color=00F7F7&text_color=c9d1d9&bg_color=0d1117" alt="Lokesh Singh Tanwar github stats" /> 
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokeshsingh78&layout=compact&hide_border=true&title_color=00F7F7&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lokeshsingh78&theme=github_dark&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+### 📊 Coding Activity Overview
+
+
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   15 hrs 30 mins  ████████████░░░░░░░░░   48.20%
+React        9 hrs 45 mins   ███████░░░░░░░░░░░░░░   30.35%
+Node.js      4 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░   13.50%
+CSS          1 hr 35 mins    █░░░░░░░░░░░░░░░░░░░░   04.95%
+Other        55 mins         █░░░░░░░░░░░░░░░░░░░░   02.88%
+```
+<!--END_SECTION:waka-->
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🤝 LET'S BUILD SOMETHING AMAZING TOGETHER
+
+<div align="center">
+
+### I'm currently open to:
+🎯 Full-time Software Development roles  
+💼 Freelance projects (Web & Mobile)  
+🤝 Open source collaborations  
+📝 Technical writing opportunities  
+🎓 Mentoring aspiring developers  
+
+<br>
+
+
+
+
+
+
+
+
+### 📬 Reach Out To Me
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="110">
+<a href="mailto:Lokeshsinghtanwar78@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="48" />
+<br>Email
+</a>
+</td>
+
+<td align="center" width="110">
+<a href="https://x.com/Not_LokeshSingh" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" width="42" />
+<br>X
+</a>
+</td>
+
+<td align="center" width="110">
+<a href="https://www.linkedin.com/in/lokesh-singh-tanwar/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48" />
+<br>LinkedIn
+</a>
+</td>
+
+<td align="center" width="110">
+<a href="https://dev.to/lokesh_singh" target="_blank">
+<img src="https://skillicons.dev/icons?i=devto" width="48" />
+<br>Dev.to
+</a>
+</td>
+
+<td align="center" width="110">
+<a href="https://github.com/Lokeshsingh78" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="48" />
+<br>GitHub
+</a>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+
+
+
+
+
+
+
+<br><br>
+
+### ⚡ Response Time: Usually within 6 hours
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+## 💭 Developer Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+---
+
+### Show some ❤️ by starring some of the repositories!
+
+![Profile Views](https://komarev.com/ghpvc/?username=Lokeshsingh78&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
+[![GitHub Followers](https://img.shields.io/github/followers/Lokeshsingh78?label=Followers&style=for-the-badge&color=blue)](https://github.com/Lokeshsingh78)
+[![GitHub Stars](https://img.shields.io/github/stars/Lokeshsingh78?label=Total%20Stars&style=for-the-badge&color=yellow)](https://github.com/Lokeshsingh78)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+connect+and+build+together!;Open+to+exciting+opportunities!" alt="Typing SVG" />
+
+</div>
+
 <p align="center"><img src="https://raw.githubusercontent.com/Lokeshsingh78/Lokeshsingh78/output/snake.svg" alt="Snake animation" /></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
