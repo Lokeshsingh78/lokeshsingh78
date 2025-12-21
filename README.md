@@ -268,30 +268,10 @@
 
 
 
-<br><br>
-
-### ⚡ Response Time: Usually within 6 hours
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 💭 Developer Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 ---
 
 ### Show some ❤️ by starring some of the repositories!
-
-![Profile Views](https://komarev.com/ghpvc/?username=Lokeshsingh78&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-
-[![GitHub Followers](https://img.shields.io/github/followers/Lokeshsingh78?label=Followers&style=for-the-badge&color=blue)](https://github.com/Lokeshsingh78)
-[![GitHub Stars](https://img.shields.io/github/stars/Lokeshsingh78?label=Total%20Stars&style=for-the-badge&color=yellow)](https://github.com/Lokeshsingh78)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+connect+and+build+together!;Open+to+exciting+opportunities!" alt="Typing SVG" />
 
@@ -300,3 +280,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/Lokeshsingh78/Lokeshsingh78/output/snake.svg" alt="Snake animation" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Lokeshsingh78&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
