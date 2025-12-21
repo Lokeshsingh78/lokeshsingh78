@@ -15,9 +15,6 @@
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=700&lines=Transforming+Ideas+Into+Digital+Reality;Building+Next-Gen+Web+Experiences;Creating+the+Future%2C+One+Line+at+a+Time" alt="Typing SVG" />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="left">
 <a href="https://twitter.com/not_lokeshsingh" target="blank"><img src="https://img.shields.io/twitter/follow/not_lokeshsingh?logo=twitter&style=for-the-badge" alt="not_lokeshsingh" /></a>
