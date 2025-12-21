@@ -56,10 +56,6 @@
 <br>JavaScript
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
-<br>TypeScript
-</td>
-<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
 <br>HTML5
 </td>
@@ -67,10 +63,7 @@
 <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
 <br>CSS3
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-<br>Tailwind
-</td>
+
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
 <br>Bootstrap
@@ -99,14 +92,6 @@
 <br>MySQL
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
-<br>PostgreSQL
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-<br>Redis
-</td>
-<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
 <br>Firebase
 </td>
@@ -132,6 +117,34 @@
 </tr>
 </table>
 
+
+
+### 『 Programming & Core CS 』
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cpp" width="48"/><br>C++
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+<br>Java
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python
+</td>
+
+</tr>
+</table>
+
+
+
+
+
+
+
+
+
 ### 『 DevOps & Tools 』
 
 <table>
@@ -144,17 +157,10 @@
 <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
 <br>GitHub
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-<br>Docker
-</td>
+
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
 <br>AWS
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-<br>Postman
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
@@ -186,20 +192,6 @@
 </div>
 
 <div align="center">
-
-### 📊 Coding Activity Overview
-
-
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   15 hrs 30 mins  ████████████░░░░░░░░░   48.20%
-React        9 hrs 45 mins   ███████░░░░░░░░░░░░░░   30.35%
-Node.js      4 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░   13.50%
-CSS          1 hr 35 mins    █░░░░░░░░░░░░░░░░░░░░   04.95%
-Other        55 mins         █░░░░░░░░░░░░░░░░░░░░   02.88%
-```
-<!--END_SECTION:waka-->
 
 </div>
 
