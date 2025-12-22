@@ -199,9 +199,6 @@
 📝 Technical writing opportunities  
 🎓 Mentoring aspiring developers  
 
-<br>
-
-
 
 
 
@@ -263,13 +260,6 @@
 
 
 
----
-
-### Show some ❤️ by starring some of the repositories!
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+connect+and+build+together!;Open+to+exciting+opportunities!" alt="Typing SVG" />
-
-</div>
 
 <p align="center"><img src="https://raw.githubusercontent.com/Lokeshsingh78/Lokeshsingh78/output/snake.svg" alt="Snake animation" /></p>
 
