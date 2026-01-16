@@ -20,7 +20,7 @@
 
 - 🔭 I'm currently working on [Coder's Blog](https://github.com/Lokeshsingh78/coders-blog)
 - 🌱 I'm currently learning **MERN Stack**
-- 👨‍💻 My Portfolio: [Lokesh Singh Tanwar](https://lokeshsingh78.github.io/Lokesh_portfolio/)
+- 👨‍💻 My Portfolio: [Lokesh Singh Tanwar](https://lokesh-singh-tanwar.vercel.app/)
 - 📝 I regularly write articles on [Dev.to](https://dev.to/lokesh_singh)
 - 💬 Ask me about **Web Development, Android App Development**
 - 📫 How to reach me **Lokeshsinghtanwar78@gmail.com**
